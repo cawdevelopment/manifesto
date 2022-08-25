@@ -1,4 +1,4 @@
-# dev
+# devs spec
 A Manifesto on a Decentralized Social Clearing House ...(AKA) CAW 
 
 The concept of decentralization has been lost to some of us over time, 
