@@ -4,7 +4,7 @@ A Manifesto on a Decentralized Social Clearing House ...(AKA) CAW
 The concept of decentralization has been lost to some of us over time, 
 those who forgot why Bitcoin was created, the issues blockchain and cryptocurrency is meant to solve. 
 To be decentralized means there is no single person, entity, nor group which has ultimate control nor
-benefit over a system/
+benefit over a system
 
 In a decentralized system, there is not one man who via desire or persuasion could cripple the system in any meaningful way
 This means from both a technical standpoint (i.e, a developer who can stop trading, or disable the protocol through the use of smart contracts) 
