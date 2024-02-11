@@ -154,3 +154,8 @@ Love, one who still dreams.
 P.S. There are no official socials, nor partner projects or further releases. 
 CAW is by design without design, and it is up the CAWMmunity to shape CAW. 
 Only by giving you the vision and seeing what cames next may we have a truly free and decentralized system.
+
+
+ # website 
+
+ caw.is
